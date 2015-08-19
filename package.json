@@ -1,51 +1,51 @@
 {
-	"name": "color-quantize",
-	"description": "Convert colors to websafe / websmart values",
-	"version": "0.1.0",
-	"homepage": "https://github.com/skratchdot/color-quantize",
-	"author": {
-		"name": "skratchdot",
-		"email": "git@skratchdot.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/skratchdot/color-quantize.git"
-	},
-	"bugs": {
-		"url": "https://github.com/skratchdot/color-quantize/issues"
-	},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "https://github.com/skratchdot/color-quantize/blob/master/LICENSE-MIT"
-		}
-	],
-	"main": "lib/color-quantize",
-	"engines": {
-		"node": ">= 0.8.0"
-	},
-	"scripts": {
-		"test": "gulp test"
-	},
-	"dependencies": {
-		"onecolor": "^2.4.0"
-	},
-	"devDependencies": {
-	    "gulp": "^3.8.1",
-	    "gulp-jshint": "^1.6.3",
-	    "gulp-nodeunit": "0.0.5"
-	},
-	"keywords": [
-		"color",
-		"convert",
-		"conversion",
-		"rgb",
-		"web",
-		"safe",
-		"smart",
-		"websafe",
-		"websmart",
-		"web-safe",
-		"web-smart"
-	]
+  "name": "color-quantize",
+  "description": "Convert colors to websafe / websmart values",
+  "version": "0.1.1",
+  "homepage": "https://github.com/skratchdot/color-quantize",
+  "author": {
+    "name": "skratchdot",
+    "email": "git@skratchdot.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skratchdot/color-quantize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skratchdot/color-quantize/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/skratchdot/color-quantize/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/color-quantize",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "dependencies": {
+    "onecolor": "^2.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-nodeunit": "0.0.5"
+  },
+  "keywords": [
+    "color",
+    "convert",
+    "conversion",
+    "rgb",
+    "web",
+    "safe",
+    "smart",
+    "websafe",
+    "websmart",
+    "web-safe",
+    "web-smart"
+  ]
 }
