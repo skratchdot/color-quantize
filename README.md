@@ -7,7 +7,7 @@
 [![Dependency Status](https://david-dm.org/skratchdot/color-quantize.svg)](https://david-dm.org/skratchdot/color-quantize)
 [![devDependency Status](https://david-dm.org/skratchdot/color-quantize/dev-status.svg)](https://david-dm.org/skratchdot/color-quantize#info=devDependencies)
 
-[![NPM](https://nodei.co/npm/color-quantize.svg)](https://npmjs.org/package/color-quantize)
+[![NPM](https://nodei.co/npm/color-quantize.png)](https://npmjs.org/package/color-quantize)
 
 
 ## Description
